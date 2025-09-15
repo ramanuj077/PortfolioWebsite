@@ -18,17 +18,6 @@ It is fully responsive, SEO-friendly, and designed with modern UI/UX practices.
 
 ---
 
-## 📂 Project Structure
-
-```bash
-portfolio-website/
-│── index.html        # Main HTML file
-│── style.css         # Stylesheet (inline or external)
-│── script.js         # JavaScript (inline or external)
-│── assets/
-│    ├── images/      # Profile & project images
-│    └── icons/       # Favicon and social icons
-│── README.md         # Project documentation
 
 🛠️ Tech Stack
 
