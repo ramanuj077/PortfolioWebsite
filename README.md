@@ -27,9 +27,7 @@ UI/UX: Responsive Layout, Animations, Hover Effects
 
 Deployment: GitHub Pages / Netlify / Vercel
 
-📸 Preview
 
-🔗 Live Demo
 
 👉 View Portfolio
 
